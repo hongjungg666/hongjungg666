@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hongjungg666 or you can call me Zihao(Roger) Ren
 - 👀 I’m interested in date science rated problems.
 - 🌱 I’m currently a master student in the MSDS Program at University of Sanfrancisco.
-- 💞️ I’m looking to collaborate on exacting projects with you.
+- 💞️ I’m looking to collaborate on exaciting projects with you.
 - 📫 Feel free to contact me with zren20@dons.usfca.edu
 
 <!---
