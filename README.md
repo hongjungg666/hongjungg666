@@ -1,5 +1,5 @@
 - 👋 Hi Everyone, I’m Zihao(Roger) Ren
-- 🌱 I’m currently a master of science in Data Science student at University of Sanfrancisco
+- 🌱 I’m currently a Master of Science in Data Science student at University of Sanfrancisco
 - 📫 Feel free to contact me with zren20@dons.usfca.edu then I am very happy to share with you the <b>zip file</b> containning how I did Machine Learning algorithm <b>implementations from scratch</b> with Object Oriented programming in Python: 
 - Regularized Linear and Logistic Regression with Gradient Descent, Naive Bayes, Decision Trees, Random Forest, recommendation engine! (Due to MSDS Program Policy, I can not share class specific projects in here, sorry aboout that)
  
