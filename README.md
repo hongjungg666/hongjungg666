@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hongjungg666 or you can call me Zihao(Roger) Ren
-- 👀 I’m interested in date science rated problems.
-- 🌱 I’m currently a master student in the MSDS Program at University of Sanfrancisco.
-- 💞️ I’m looking to collaborate on exciting projects with you.
-- 📫 Feel free to contact me with zren20@dons.usfca.edu
+- 👋 Hi Everyone, I’m Zihao(Roger) Ren
+- 🌱 I’m currently a master of science in Data Science student at University of Sanfrancisco.
+- 📫 Feel free to contact me with zren20@dons.usfca.edu then I can share with you the zip containning how I did Machine Learning algorithm implementations from scratch in Python: Regularized Linear and Logistic Regression with Gradient Descent, Naive Bayes, Decision Trees, Random Forest, recommendation engine!
+
 
 <!---
 hongjungg666/hongjungg666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
